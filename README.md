@@ -1,1 +1,1 @@
-# seung-yeon-ryoo.github.io
+Files for my [personal webpage](seungyeonryoo.com).
